@@ -1,0 +1,9 @@
+Even simpler analogy
+
+Main = published book
+
+Branch = your personal edit copy
+
+Pull request = editor review
+
+Merge = publish the approved changes
